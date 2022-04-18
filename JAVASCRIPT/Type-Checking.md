@@ -1,0 +1,62 @@
+# Type-Checking
+
+데이터는 눈으로 보이는 게 아니기 때문에, 데이터의 타입을 명확하게 해줄 필요가 있다
+<br>
+<br>
+
+## `typeof 데이터`
+```js
+console.log(typeof '123') //string
+console.log(typeof 123) // number
+console.log(typeof true) // boolean
+console.log(typeof null) // object ??
+console.log(typeof undefined) // undefined
+console.log(typeof Symbol('aabbcc')) //symbol
+console.log(typeof 123n) //bigint
+console.log(typeof []) // object ??
+console.log(typeof {}) // object
+console.log(typeof function () {}) // function
+
+```
+데이터의 타입은 항상 확인 할 수 있어야 한다
+
+null 과 array는 typeof로 알아 낼 수 없다!
+<br>
+<br>
+
+## `Array` 타입을 알아내는 방법
+
+`데이터.constructor`
+```js
+console.log([].constructor === Array)
+console.log(Array.isArray(''))
+```
+배열을 알아내는 두가지 방법
+
+하지만 null은 파악 할 수 없다
+<br>
+<br>
+
+## `null` 을 포함한 모든 데이터의 타입을 알아내는 방법
+`Object.prototype.toString.call(데이터)`
+
+이 방식을 사용하면 모든 데이터의 타입을 확인 할 수 있다
+
+```js
+function checkType(data) {
+  return Object.prototype.toString.call(data)
+}
+console.log(checkType([]))
+// [object Array]
+
+
+function checkType(data) {
+  return Object.prototype.toString.call(data).slice(8, -1)
+}
+console.log(checkType(undefined))
+// undefined
+// [object undefuned]에서 slice(8, -1) 한 결과
+```
+`data` 부분은 인수(argument)가 들어가는데, 이런 경우를 매개변수라 한다
+
+`data` 부분의 이름은 원하는 이름을 사용할 수 있다

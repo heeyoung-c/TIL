@@ -1,0 +1,227 @@
+# Data-Type
+
+## 원시형(Primitive type)
+
+1. String
+1. Number
+1. Boolean
+1. null
+1. undefined
+1. Symbol
+1. BigInt
+<br>
+<br>
+## 참조형(Reference type)
+
+1. Array
+1. Object
+1. Function
+<br>
+<br>
+
+## String
+
+따옴표로 묶여 있어야 한다
+
+```js
+"Hee"
+'Hee'
+`Hee` // 보간!
+```
+모두 문자 데이터로 표현 되지만, 
+
+벡틱기호는 그 쓰임이 조금 다르다
+
+보간을 통해서 데이터를 사용할 수 있다
+
+```js
+const abc = 'ABC'
+console.log(`Hello ${abc}`) //보간을 통해 변수 abc의 값을 사용
+// ABC
+```
+<br>
+<br>
+
+## Number
+
+```js
+const a = 123
+console.log(typeof(a))
+// number
+```
+<br>
+<br>
+
+## Boolean
+
+```js
+true
+false
+```
+대표적으로 조건문에서 사용된다
+
+```js
+if (true) {
+  console.log('참!')
+}
+// result ... 참!
+```
+<br>
+<br>
+
+## null
+
+'존재하지 않는', '비어 있는', '알 수 없는' 값을 명시적으로 나타냄
+
+```js
+const user {
+  name: 'heeyoung',
+  age: null,
+}
+```
+<br>
+<br>
+
+## undefined
+
+'값이 할당되지 않은 상태'를 암시적으로 나타냄
+
+```js
+let a
+console.log(a)
+// undefined
+// 변수 a의 값이 할당되어있지 않기 때문
+```
+
+`undefined`는 암시적인 것이고, 
+
+`null`은 명시적인 것이다
+
+`undefined`는 그릇은 존재하나, 값이 없다
+
+`null`은 직접 넣은 값이다
+<br>
+<br>
+
+## Symbol
+
+유일한 식별자(ID) 데이터 이름을 만들 때 사용
+
+```js
+const s = Symbol('Hello world') // 설명
+
+const user = {
+  name: 'HeeYoung',
+  [s]: 81
+}
+
+console.log(user.name)
+// Heeyoung
+
+console.log(user[s])
+// 81
+```
+81이라는 값에 접근 하기 위해선 유일한 식별자, 즉 일종의 Key가 필요하다
+<br>
+<br>
+
+## BigInt
+
+큰(Big) 정수(Integer)
+
+```js
+console.log(123n)
+// 해당 값은 BigInt이다
+```
+2^53-1 의 값이 JS에서 표현할 수 있는 가장 큰 숫자인데,
+
+이 수보다 큰 값을 표현할 때 BigInt를 사용한다
+<br>
+<br>
+
+## Array
+
+```js
+const arr = [1, '2', 3, {}, () => {}]
+
+console.log(a[0])
+```
+배열안에 값은 배열의 item 혹은 element 라고 불린다
+
+index 번호는 0부터 시작한다
+
+index 번호를 사용하여 배열의 item을 조회하는 행위를 indexing이라 한다
+
+```js
+const a = ['Apple', 'Banana', 'Cherry']
+// 리터럴 방식, 기호를 통해 데이터를 생성
+
+const b = new Array('Apple', 'Banana', 'Cherry')
+// 클래스 방식
+```
+<br>
+<br>
+
+## Object
+
+```js
+const obj = {
+  a: 'Apple',
+  b: 'Banana',
+  c: 'Cherry',
+  b: 'Big'
+}
+consolg.log(obj['b']) 
+// Big
+
+// Key: Value 형태
+```
+Key라는 것은 고유하다
+
+Key가 같은 값이 할당되어 있으면, 나중에 표현된 값만 선언된다
+
+```js
+console.log(obj.a) //점(Dot) 표기법
+console.log(obj['a']) //괄호(Bracket) 표기법
+```
+괄호표기법을 사용할 경우, Key의 값에 특수문자가 표현되어 있을 경우, 값을 가져올 수 있다
+
+```js
+const obj = {
+  'ASDF@#@$@SDA121-13' : 'Apple',
+  b: 'Banana',
+  _c: 'Cherry'
+}
+
+console.log(obj['ASDF@#@$@SDA121-13']) O
+console.log(obj.'ASDF@#@$@SDA121-13') X
+// 이런 경우 괄호 표기법만 사용 가능
+```
+`_(under-bar)` 같은 경우엔 해당 값을 숨기는 용도로 사용한다
+
+실제로 숨겨지지는 않지만, 그러한 의도를 가지고 사용한다
+<br>
+<br>
+
+## Function
+
+```js
+ function () {
+   // 명령1
+   // 명령2
+   // 명령3
+   // 명령4
+ }
+// 함수는 묶음처리만 해서는 쓸 수 없기 때문에, 함수에 이름을 부여해줄 수 있다.
+
+ function Hee() {
+   // 명령1
+   // 명령2
+   // 명령3
+   // 명령4
+ }
+
+```
+핵심은, 함수도 하나의 데이터라는 것이다
+<br>
+<br>
