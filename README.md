@@ -11,15 +11,18 @@ Today I Learned..
   [Week-4 (220415~220421)](./KDT-FE2/weekly-worksheet/Week-4(220415~220421)(js).md)<br>
 
 ## 🖼 [HTML-CSS](./HTML-CSS/)
-> [CSS-Coding-Convention](./HTML-CSS/css-coding-convention.md)
+> [CssCodingConvention](./HTML-CSS/CssCodingConvention.md)
 
 ## 😂 [JAVASCRIPT](./JAVASCRIPT/)
-> [Data-Type](./JAVASCRIPT/Data-Type.md)<br>
-  [Floating-Point-Error(부동 소수점 오류)](./JAVASCRIPT/Floating-Point-Error.md)<br>
-  [Type-Conversion(형 변환)](./JAVASCRIPT/Type-Conversion.md)<br>
-  [Truthy-Falsy](./JAVASCRIPT/Truthy-Falsy.md)<br>
-  [Type-Checking](./JAVASCRIPT/Type-Checking.md)<br>
-  [Variable](./JAVASCRIPT/Variable.md)<br>
+> [DataType](./JAVASCRIPT/1.DataType.md)<br>
+  [FloatingPointError(부동 소수점 오류)](./JAVASCRIPT/2.FloatingPointError.md)<br>
+  [TypeConversion(형 변환)](./JAVASCRIPT/3.TypeConversion.md)<br>
+  [Truthy & Falsy](./JAVASCRIPT/4.TruthyFalsy.md)<br>
+  [TypeChecking](./JAVASCRIPT/5.TypeChecking.md)<br>
+  [Variable](./JAVASCRIPT/6.Variable.md)<br>
+  [Function Declaration & Expressions](./JAVASCRIPT/7.FunctionDeclaration%26Expressions.md)<br>
+  [Return](./JAVASCRIPT/8.Return.md)<br>
+  [Parameter](./JAVASCRIPT/9.Parameter.md)
 
 
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
