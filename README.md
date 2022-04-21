@@ -5,20 +5,20 @@ Today I Learned..
 
 # 📚CATEGORY
 ## 📕 [KDT-FE2-Weekly-worksheet](./KDT-FE2/weekly-worksheet/)
-> [Week-1 (220328~220331)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)<br>
-  [Week-2 (220401~220407)](./KDT-FE2/weekly-worksheet/Week-2(220401~220407)(html%26css).md)<br>
-  [Week-3 (220408~220414)](./KDT-FE2/weekly-worksheet/Week-3(220408~220414)(html%26css).md)<br>
-  [Week-4 (220415~220421)](./KDT-FE2/weekly-worksheet/Week-4(220415~220421)(js).md)<br>
+> [Week-1 (220328~220331)(git&github)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)<br>
+  [Week-2 (220401~220407)(HTML&CSS)](./KDT-FE2/weekly-worksheet/Week-2(220401~220407)(html%26css).md)<br>
+  [Week-3 (220408~220414)(CSS)](./KDT-FE2/weekly-worksheet/Week-3(220408~220414)(html%26css).md)<br>
+  [Week-4 (220415~220421)(JS)](./KDT-FE2/weekly-worksheet/Week-4(220415~220421)(js).md)<br>
 
 ## 🖼 [HTML-CSS](./HTML-CSS/)
 > [CssCodingConvention](./HTML-CSS/CssCodingConvention.md)
 
 ## 📚 [JAVASCRIPT](./JAVASCRIPT/)
-> [DataType](./JAVASCRIPT/1.DataType.md)<br>
-  [FloatingPointError(부동 소수점 오류)](./JAVASCRIPT/2.FloatingPointError.md)<br>
-  [TypeConversion(형 변환)](./JAVASCRIPT/3.TypeConversion.md)<br>
+> [Data Type](./JAVASCRIPT/1.DataType.md)<br>
+  [Floating Point Error](./JAVASCRIPT/2.FloatingPointError.md)<br>
+  [Type Conversion](./JAVASCRIPT/3.TypeConversion.md)<br>
   [Truthy & Falsy](./JAVASCRIPT/4.TruthyFalsy.md)<br>
-  [TypeChecking](./JAVASCRIPT/5.TypeChecking.md)<br>
+  [Type Checking](./JAVASCRIPT/5.TypeChecking.md)<br>
   [Variable](./JAVASCRIPT/6.Variable.md)<br>
   [Function Declaration & Expressions](./JAVASCRIPT/7.FunctionDeclaration%26Expressions.md)<br>
   [Return](./JAVASCRIPT/8.Return.md)<br>
@@ -26,6 +26,13 @@ Today I Learned..
   [IIFE](./JAVASCRIPT/10.IIFE.md)<br>
   [Hoisting](./JAVASCRIPT/11.Hoisting.md)<br>
   [CallBack](./JAVASCRIPT/12.CallBack.md)<br>
+  [Arrow Function](./JAVASCRIPT/13.ArrowFunction.md)<br>
+  [this](./JAVASCRIPT/14.this.md)<br>
+  [Assignment Operator](./JAVASCRIPT/15.AssignmentOperator.md)<br>
+  [Logical Operator](./JAVASCRIPT/16.LogicalOperator.md)<br>
+  [Conditional Operator](./JAVASCRIPT/17.ConditionalOperator.md)<br>
+  [Switch Statement](./JAVASCRIPT/18.SwitchStatement.md)<br>
+  [For Statement](./JAVASCRIPT/19.ForStatement.md)<br>
 
 
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
