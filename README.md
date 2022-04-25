@@ -4,14 +4,42 @@ Today I Learned..
 <br>
 
 # 📚CATEGORY
-## 📕 [KDT-FE2-Weekly-worksheet](./KDT-FE2/weekly-worksheet/)
-> [Week-1 (220328~220331)(git&github)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)<br>
+## 📕 [KDT-FE2-Weekly-Worksheet](./KDT-FE2/weekly-worksheet/)
+> [Week-1 (220328~220331)(Git&GitHub)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)<br>
   [Week-2 (220401~220407)(HTML&CSS)](./KDT-FE2/weekly-worksheet/Week-2(220401~220407)(html%26css).md)<br>
   [Week-3 (220408~220414)(CSS)](./KDT-FE2/weekly-worksheet/Week-3(220408~220414)(html%26css).md)<br>
   [Week-4 (220415~220421)(JS)](./KDT-FE2/weekly-worksheet/Week-4(220415~220421)(js).md)<br>
 
-## 🖼 [HTML-CSS](./HTML-CSS/)
-> [CssCodingConvention](./HTML-CSS/CssCodingConvention.md)
+## [Git&GitHub](./Git%26GitHub/)
+> [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
+  [Vim](./Git%26GitHub/2.Vim.md)  
+  [Git Config](./Git%26GitHub/3.GitConfig.md)
+  [Git Clone & Init](./Git%26GitHub/4.GitClone%26Init.md)  
+  [Commit](./Git%26GitHub/5.Commit.md)  
+  [GitIgnore](./Git%26GitHub/6.Gitignore.md)  
+  [Branch](./Git%26GitHub/7.Branch.md)
+  [Git Flow](./Git%26GitHub/8.GitFlow.md)  
+
+## 🖼 [HTML&CSS](./HTML-CSS/)
+> [Css Coding Convention](./HTML%26CSS/1.CssCodingConvention.md)  
+  [Block vs Inline](./HTML%26CSS/2.Block%20vs%20Inline.md)  
+  [Connect Html & CSS](./HTML%26CSS/3.ConnectHtml%26Css.md)  
+  [Margin Collapsing](./HTML%26CSS/4.MarginCollapsing.md)  
+  [Box Sizing](./HTML%26CSS/5.BoxSizing.md)  
+  [Abbreviation For Words](./HTML%26CSS/6.AbbreviationForWords.md)  
+  [Text-Ident](./HTML%26CSS/7.TextIdent.md)  
+  [Linear-Gradient](./HTML%26CSS/8.LinearGradient.md)  
+  [Position](./HTML%26CSS/9.Position.md)  
+  [Flex](./HTML%26CSS/10.Flex.md)  
+  [Img tip](./HTML%26CSS/11.ImgTip.md)  
+  [Transition & Transform](./HTML%26CSS/12.Transition%26Transform.md)  
+  [Animation](./HTML%26CSS/13.Animation.md)  
+  [Multi Column](./HTML%26CSS/14.MultiColumn.md)  
+  [Filter](./HTML%26CSS/15.Filter.md)  
+  [Grid](./HTML%26CSS/16.Grid.md)  
+  [Media](./HTML%26CSS/17.Media.md)  
+  [Variable](./HTML%26CSS/18.Variable.md)    
+
 
 ## 📚 [JAVASCRIPT](./JAVASCRIPT/)
 > [Data Type](./JAVASCRIPT/1.DataType.md)<br>
