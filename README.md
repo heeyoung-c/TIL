@@ -67,6 +67,10 @@ Today I Learned..
   [Number.prototype Method](./JAVASCRIPT/22.Number.prototypeMethod.md)  
   [Number Static Method](./JAVASCRIPT/23.NumberStaticMethod.md)  
   [Array.prototype Method](./JAVASCRIPT/24.Array.prototype.md)  
+  [Object Static Mathod](./JAVASCRIPT/25.ObjectStaticMathod.md)  
+  [Date](./JAVASCRIPT/26.Date.md)  
+  [Spread Operator](./JAVASCRIPT/27.SpreadOperator.md)  
+  [Destructuring assignment](./JAVASCRIPT/28.DestructuringAssignment.md)  
 
 
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
