@@ -71,6 +71,9 @@ Today I Learned..
   [Date](./JAVASCRIPT/26.Date.md)  
   [Spread Operator](./JAVASCRIPT/27.SpreadOperator.md)  
   [Destructuring assignment](./JAVASCRIPT/28.DestructuringAssignment.md)  
+  [lmmutabillity](./JAVASCRIPT/29.Immutabillity.md)  
+  [Recursive Function](./JAVASCRIPT/30.RecursiveFunction.md)  
+  [Asynchronous](./JAVASCRIPT/31.Asynchronous.md)  
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vue.js"/> [Vue.js](./Vue.js/)
 > [Declarative Rendering & Handling User Iuput](./Vue.js/1.DeclarativeRendering%26HandlingUserIuput.md)  
