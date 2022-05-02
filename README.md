@@ -9,16 +9,17 @@ Today I Learned..
   [Week-2 (220401~220407)(HTML&CSS)](./KDT-FE2/weekly-worksheet/Week-2(220401~220407)(html%26css).md)  
   [Week-3 (220408~220414)(CSS)](./KDT-FE2/weekly-worksheet/Week-3(220408~220414)(html%26css).md)  
   [Week-4 (220415~220421)(JS)](./KDT-FE2/weekly-worksheet/Week-4(220415~220421)(js).md)  
-  [Week-5 (220422~220428)(JS)](./KDT-FE2/weekly-worksheet/Week-5(220422~220428)(js).md)
+  [Week-5 (220422~220428)(JS)](./KDT-FE2/weekly-worksheet/Week-5(220422~220428)(js).md)  
+  [Week-6 (220429~220505)(JS)](./KDT-FE2/weekly-worksheet/Week-6(220429~220505)(js).md)  
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=16px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
   [Vim](./Git%26GitHub/2.Vim.md)  
-  [Git Config](./Git%26GitHub/3.GitConfig.md)
+  [Git Config](./Git%26GitHub/3.GitConfig.md)  
   [Git Clone & Init](./Git%26GitHub/4.GitClone%26Init.md)  
   [Commit](./Git%26GitHub/5.Commit.md)  
   [GitIgnore](./Git%26GitHub/6.Gitignore.md)  
-  [Branch](./Git%26GitHub/7.Branch.md)
+  [Branch](./Git%26GitHub/7.Branch.md)  
   [Git Flow](./Git%26GitHub/8.GitFlow.md)  
 
 ## 🖼 [HTML&CSS](./HTML%26CSS/)
@@ -74,6 +75,7 @@ Today I Learned..
   [lmmutabillity](./JAVASCRIPT/29.Immutabillity.md)  
   [Recursive Function](./JAVASCRIPT/30.RecursiveFunction.md)  
   [Asynchronous](./JAVASCRIPT/31.Asynchronous.md)  
+  [Promise](./JAVASCRIPT/32.Promise.md)  
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vue.js"/> [Vue.js](./Vue.js/)
 > [Declarative Rendering & Handling User Iuput](./Vue.js/1.DeclarativeRendering%26HandlingUserIuput.md)  
