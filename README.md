@@ -42,7 +42,6 @@ Today I Learned..
   [Media](./HTML%26CSS/17.Media.md)  
   [Variable](./HTML%26CSS/18.Variable.md)    
 
-
 ## 📚 [JAVASCRIPT](./JAVASCRIPT/)
 > [Data Type](./JAVASCRIPT/1.DataType.md)  
   [Floating Point Error](./JAVASCRIPT/2.FloatingPointError.md)  
@@ -76,6 +75,9 @@ Today I Learned..
   [Recursive Function](./JAVASCRIPT/30.RecursiveFunction.md)  
   [Asynchronous](./JAVASCRIPT/31.Asynchronous.md)  
   [Promise](./JAVASCRIPT/32.Promise.md)  
+  [Class](./JAVASCRIPT/33.Class.md)  
+  [Shallow Copy & Deep Copy](./JAVASCRIPT/34.ShallowCopy%26DeepCopy.md)  
+
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vue.js"/> [Vue.js](./Vue.js/)
 > [Declarative Rendering & Handling User Iuput](./Vue.js/1.DeclarativeRendering%26HandlingUserIuput.md)  
