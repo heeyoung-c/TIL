@@ -11,6 +11,7 @@ Today I Learned..
   [Week-4 (220415~220421)(JS)](./KDT-FE2/weekly-worksheet/Week-4(220415~220421)(js).md)  
   [Week-5 (220422~220428)(JS)](./KDT-FE2/weekly-worksheet/Week-5(220422~220428)(js).md)  
   [Week-6 (220429~220505)(JS)](./KDT-FE2/weekly-worksheet/Week-6(220429~220505)(js).md)  
+  [Week-7 (220506~220512)(JS)](./KDT-FE2/weekly-worksheet/Week-7(220506~220512)(js).md)    
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=16px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
@@ -77,6 +78,9 @@ Today I Learned..
   [Promise](./JAVASCRIPT/32.Promise.md)  
   [Class](./JAVASCRIPT/33.Class.md)  
   [Shallow Copy & Deep Copy](./JAVASCRIPT/34.ShallowCopy%26DeepCopy.md)  
+  [Module Import & Export](./JAVASCRIPT/35.ModuleImport%26Export.md)  
+  [Call Stack & Event Loop](./JAVASCRIPT/36.CallStack%26EventLoop.md)  
+  [DOM API](./JAVASCRIPT/37.DomAPI.md)  
 
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vue.js"/> [Vue.js](./Vue.js/)
