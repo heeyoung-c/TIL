@@ -86,6 +86,7 @@ Today I Learned..
 > [entry & output](./Webpack/1.entry%26output.md)  
   [html-webpack-plugin](./Webpack/2.html-webpack-plugin.md)  
   [copy-webpack-plugin](./Webpack/3.copy-webpack-plugin.md)  
+  [module](./Webpack/4.module.md)  
   
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vue.js"/> [Vue.js](./Vue.js/)
