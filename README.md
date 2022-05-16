@@ -11,7 +11,8 @@ Today I Learned..
   [Week-4 (220415~220421)(JS)](./KDT-FE2/weekly-worksheet/Week-4(220415~220421)(js).md)  
   [Week-5 (220422~220428)(JS)](./KDT-FE2/weekly-worksheet/Week-5(220422~220428)(js).md)  
   [Week-6 (220429~220505)(JS)](./KDT-FE2/weekly-worksheet/Week-6(220429~220505)(js).md)  
-  [Week-7 (220506~220512)(JS&Bundler)](./KDT-FE2/weekly-worksheet/Week-7(220506~220512)(js%26bundler).md)    
+  [Week-7 (220506~220512)(JS&Bundler)](./KDT-FE2/weekly-worksheet/Week-7(220506~220512)(js%26bundler).md)  
+  [Week-8 (220513~220519)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-8(220513~220519).md)
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=16px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
@@ -90,7 +91,8 @@ Today I Learned..
   
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vue.js"/> [Vue.js](./Vue.js/)
-> [Declarative Rendering & Handling User Iuput](./Vue.js/1.DeclarativeRendering%26HandlingUserIuput.md)  
+> [Preview](./Vue.js/0.Preview.md)  
+  [Declarative Rendering & Handling User Iuput](./Vue.js/1.DeclarativeRendering%26HandlingUserIuput.md)  
   [Conditionals & Loops](./Vue.js/2.Conditionals%26Loops.md)  
   [Instance LifeCycle](./Vue.js/3.Instance%26LifeCycle.md)  
   [Template Syntax](./Vue.js/4.TemplateSyntax.md)  
