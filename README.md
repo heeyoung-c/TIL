@@ -108,6 +108,7 @@ Today I Learned..
   [Form Input Bindings](./Vue.js/13.FormInputBindings.md)  
   [Component](./Vue.js/14.Component.md)  
   [Composition API](./Vue.js/15.CompositionAPI.md)  
+  [TelePort](./Vue.js/16.TelePort.md)  
 
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
 > [백준 1193](https://heeyoung-c.github.io/2022/04/08/%EB%B0%B1%EC%A4%80%201193/)  
