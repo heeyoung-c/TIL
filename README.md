@@ -110,6 +110,10 @@ Today I Learned..
   [Composition API](./Vue.js/15.CompositionAPI.md)  
   [TelePort](./Vue.js/16.TelePort.md)  
 
+## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vuex"/> [Vuex](./Vuex/)
+> [Core Concepts](./Vuex/1.CoreConcepts.md)  
+
+
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
 > [백준 1193](https://heeyoung-c.github.io/2022/04/08/%EB%B0%B1%EC%A4%80%201193/)  
 
