@@ -13,7 +13,8 @@ Today I Learned..
   [Week-6 (220429~220505)(JS)](./KDT-FE2/weekly-worksheet/Week-6(220429~220505)(js).md)  
   [Week-7 (220506~220512)(JS&Bundler)](./KDT-FE2/weekly-worksheet/Week-7(220506~220512)(js%26bundler).md)  
   [Week-8 (220513~220519)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-8(220513~220519).md)  
-  [Week-9 (220520~220526)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-9(220520-220526).md)  
+  [Week-9 (220520~220526)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-9(220520~220526).md)  
+  [Week-10 (220527~220602)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-10(220527~220602).md)  
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=16px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
@@ -112,6 +113,8 @@ Today I Learned..
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vuex"/> [Vuex](./Vuex/)
 > [Core Concepts](./Vuex/1.CoreConcepts.md)  
+  [Modules](./Vuex/2.Modules.md)  
+  [Helper Funtion](./Vuex/3.HelperFunction.md)  
 
 
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
