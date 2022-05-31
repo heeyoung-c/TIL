@@ -110,6 +110,7 @@ Today I Learned..
   [Component](./Vue.js/14.Component.md)  
   [Composition API](./Vue.js/15.CompositionAPI.md)  
   [TelePort](./Vue.js/16.TelePort.md)  
+  [Non Props](./Vue.js/17.NonProps.md)  
 
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vuex"/> [Vuex](./Vuex/)
 > [Core Concepts](./Vuex/1.CoreConcepts.md)  
