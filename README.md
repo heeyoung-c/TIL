@@ -120,7 +120,14 @@ Today I Learned..
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vuex"/> [Vue Router](./VueRouter/)  
 > [Basic Concepts](./VueRouter/1.BasicConcepts.md)  
   [Nested Routes](./VueRouter/2.NestedRoutes.md)  
+  [Named Routes & Views](./VueRouter/3.NamedRoutes%26Views.md)  
+  [Redirect](./VueRouter/4.Redirect.md)  
+  [Route Meta Fields](./VueRouter/5.RouteMetaFields.md)  
+  [Navigation Guards](./VueRouter/6.NavigationGuards.md)  
+  [Scroll Behavior](./VueRouter/7.ScrollBehavior.md)
 
+## <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="18px"/> [Pinia](./Pinia/)  
+> [Core Concepts](./Pinia/1.CoreConcepts.md)
 
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
 > [백준 1193](https://heeyoung-c.github.io/2022/04/08/%EB%B0%B1%EC%A4%80%201193/)  
