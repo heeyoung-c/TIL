@@ -127,7 +127,8 @@ Today I Learned..
   [Scroll Behavior](./VueRouter/7.ScrollBehavior.md)
 
 ## <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="18px"/> [Pinia](./Pinia/)  
-> [Core Concepts](./Pinia/1.CoreConcepts.md)
+> [Core Concepts](./Pinia/1.CoreConcepts.md)  
+  [$Patch & $Reset](./Pinia/2.PatchReset.md)  
 
 ## ⛓ [Algorithm](https://heeyoung-c.github.io/categories/Algorithm/)
 > [백준 1193](https://heeyoung-c.github.io/2022/04/08/%EB%B0%B1%EC%A4%80%201193/)  
