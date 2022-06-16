@@ -16,7 +16,8 @@ Today I Learned..
   [Week-9 (220520~220526)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-9(220520~220526).md)  
   [Week-10 (220527~220602)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-10(220527~220602).md)  
   [Week-11 (220603~220609)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-11(220603~220609).md)  
-  
+  [Week-12 (220610~220616)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-12(220610~220616).md)  
+
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=16px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
   [Vim](./Git%26GitHub/2.Vim.md)  
