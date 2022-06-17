@@ -4,6 +4,13 @@ Today I Learned..
 <br>
 
 # 📚CATEGORY
+
+## <img src="https://static.velog.io/favicons/favicon-16x16.png" alt="velog" width="16px" /> [velog](https://velog.io/@heeyoung-c)  
+- ### <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f3c3.svg" alt="JS100제" width="16px" /> [JS100제](https://velog.io/@heeyoung-c/series/JS100%EC%A0%9C)  
+  > [JS100제 - 1번](https://velog.io/@heeyoung-c/JS-100%EC%A0%9C-%ED%92%80%EC%9D%B4-1%EB%B2%88)  
+    [JS100제 - 2번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-2%EB%B2%88)  
+    [JS100제 - 3번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-3%EB%B2%88)
+
 ## <img src="https://storage.googleapis.com/fc-assets-prod/favicon/favicon.ico" alt="fastcampus" width=16px /> [KDT-FE2-Weekly-Worksheet](./KDT-FE2/weekly-worksheet/)
 > [Week-1 (220328~220331)(Git&GitHub)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)  
   [Week-2 (220401~220407)(HTML&CSS)](./KDT-FE2/weekly-worksheet/Week-2(220401~220407)(html%26css).md)  
