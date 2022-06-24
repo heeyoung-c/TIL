@@ -5,7 +5,7 @@ Today I Learned..
 
 # 📚CATEGORY
 
-## <img src="https://static.velog.io/favicons/favicon-16x16.png" alt="velog" width="16px" /> [velog](https://velog.io/@heeyoung-c)  
+## <img src="https://static.velog.io/favicons/favicon-16x16.png" alt="velog" width="18px" /> [velog](https://velog.io/@heeyoung-c)  
 - ### <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f3c3.svg" alt="JS100제" width="16px" /> [JS100제](https://velog.io/@heeyoung-c/series/JS100%EC%A0%9C)  
   > [JS100제 - 1번](https://velog.io/@heeyoung-c/JS-100%EC%A0%9C-%ED%92%80%EC%9D%B4-1%EB%B2%88)  
     [JS100제 - 2번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-2%EB%B2%88)  
@@ -16,7 +16,7 @@ Today I Learned..
     [JS100제 - 7번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-7%EB%B2%88)  
 
 
-## <img src="https://storage.googleapis.com/fc-assets-prod/favicon/favicon.ico" alt="fastcampus" width=16px /> [KDT-FE2-Weekly-Worksheet](./KDT-FE2/weekly-worksheet/)
+## <img src="https://storage.googleapis.com/fc-assets-prod/favicon/favicon.ico" alt="fastcampus" width=18px /> [KDT-FE2-Weekly-Worksheet](./KDT-FE2/weekly-worksheet/)
 > [Week-1 (220328~220331)(Git&GitHub)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)  
   [Week-2 (220401~220407)(HTML&CSS)](./KDT-FE2/weekly-worksheet/Week-2(220401~220407)(html%26css).md)  
   [Week-3 (220408~220414)(CSS)](./KDT-FE2/weekly-worksheet/Week-3(220408~220414)(html%26css).md)  
@@ -31,8 +31,7 @@ Today I Learned..
   [Week-12 (220610~220616)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-12(220610~220616).md)  
   [Week-13 (220617~220623)(TS)](./KDT-FE2/weekly-worksheet/Week-13(220617~220623).md)  
 
-
-## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=16px /> [Git&GitHub](./Git%26GitHub/)
+## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=18px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
   [Vim](./Git%26GitHub/2.Vim.md)  
   [Git Config](./Git%26GitHub/3.GitConfig.md)  
@@ -42,7 +41,7 @@ Today I Learned..
   [Branch](./Git%26GitHub/7.Branch.md)  
   [Git Flow](./Git%26GitHub/8.GitFlow.md)  
 
-## 🖼 [HTML&CSS](./HTML%26CSS/)
+## <img src="https://homewood.co.kr/wp-content/uploads/2019/05/html5-css3.png" alt="html&css" width=40px /> [HTML&CSS](./HTML%26CSS/)
 > [Css Coding Convention](./HTML%26CSS/1.CssCodingConvention.md)  
   [Block vs Inline](./HTML%26CSS/2.Block%20vs%20Inline.md)  
   [Connect Html & CSS](./HTML%26CSS/3.ConnectHtml%26Css.md)  
@@ -62,7 +61,7 @@ Today I Learned..
   [Media](./HTML%26CSS/17.Media.md)  
   [Variable](./HTML%26CSS/18.Variable.md)    
 
-## 📚 [JAVASCRIPT](./JAVASCRIPT/)
+## <img src="https://2ality.com/2011/10/logo-js/js.jpg" alt="javascript" width=18px /> [JAVASCRIPT](./JAVASCRIPT/)
 > [Data Type](./JAVASCRIPT/1.DataType.md)  
   [Floating Point Error](./JAVASCRIPT/2.FloatingPointError.md)  
   [Type Conversion](./JAVASCRIPT/3.TypeConversion.md)  
