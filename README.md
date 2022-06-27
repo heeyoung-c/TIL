@@ -15,7 +15,6 @@ Today I Learned..
     [JS100제 - 6번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-6%EB%B2%88)  
     [JS100제 - 7번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-7%EB%B2%88)  
 
-
 ## <img src="https://storage.googleapis.com/fc-assets-prod/favicon/favicon.ico" alt="fastcampus" width=18px /> [KDT-FE2-Weekly-Worksheet](./KDT-FE2/weekly-worksheet/)
 > [Week-1 (220328~220331)(Git&GitHub)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)  
   [Week-2 (220401~220407)(HTML&CSS)](./KDT-FE2/weekly-worksheet/Week-2(220401~220407)(html%26css).md)  
@@ -30,6 +29,7 @@ Today I Learned..
   [Week-11 (220603~220609)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-11(220603~220609).md)  
   [Week-12 (220610~220616)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-12(220610~220616).md)  
   [Week-13 (220617~220623)(TS)](./KDT-FE2/weekly-worksheet/Week-13(220617~220623).md)  
+  [Week-14 (220623~220630)(TS & Vue.js)](./KDT-FE2/weekly-worksheet/Week-14(220624~220630).md)  
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=18px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
@@ -111,7 +111,6 @@ Today I Learned..
   [copy-webpack-plugin](./Webpack/3.copy-webpack-plugin.md)  
   [module](./Webpack/4.module.md)  
   
-
 ## <img src= "https://kr.vuejs.org/images/icons/favicon-16x16.png" alt="vue.js"/> [Vue.js](./Vue.js/)
 > [Preview](./Vue.js/0.Preview.md)  
   [Declarative Rendering & Handling User Iuput](./Vue.js/1.DeclarativeRendering%26HandlingUserIuput.md)  
