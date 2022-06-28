@@ -29,7 +29,7 @@ Today I Learned..
   [Week-11 (220603~220609)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-11(220603~220609).md)  
   [Week-12 (220610~220616)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-12(220610~220616).md)  
   [Week-13 (220617~220623)(TS)](./KDT-FE2/weekly-worksheet/Week-13(220617~220623).md)  
-  [Week-14 (220623~220630)(TS & Vue.js)](./KDT-FE2/weekly-worksheet/Week-14(220624~220630).md)  
+  [Week-14 (220624~220630)(TS & Vue.js Composition API)](./KDT-FE2/weekly-worksheet/Week-14(220624~220630).md)  
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=18px /> [Git&GitHub](./Git%26GitHub/)
 > [Kernal & Shell](./Git%26GitHub/1.Kernal%26Shell.md)  
