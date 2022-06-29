@@ -14,6 +14,8 @@ Today I Learned..
     [JS100제 - 5번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-5%EB%B2%88)  
     [JS100제 - 6번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-6%EB%B2%88)  
     [JS100제 - 7번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-7%EB%B2%88)  
+    [JS100제 - 8번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-8%EB%B2%88)  
+    [JS100제 - 9번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-9%EB%B2%88)  
 
 ## <img src="https://storage.googleapis.com/fc-assets-prod/favicon/favicon.ico" alt="fastcampus" width=18px /> [KDT-FE2-Weekly-Worksheet](./KDT-FE2/weekly-worksheet/)
 > [Week-1 (220328~220331)(Git&GitHub)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)  
