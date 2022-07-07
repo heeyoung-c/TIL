@@ -103,7 +103,8 @@ Today I Learned..
   [DOM API](./JAVASCRIPT/37.DomAPI.md)  
 
 ## <img src= "https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" alt="typescript" width="18px"/> [TypeScript](./TypeScript/)  
-> [Basic Types](./TypeScript/1.BasicTypes.md)  
+> [Preview](./TypeScript/0.Preview.md)  
+  [Basic Types](./TypeScript/1.BasicTypes.md)  
   [Interface](./TypeScript/2.Interface.md)  
   [Generic](./TypeScript/3.Generic.md)  
 
