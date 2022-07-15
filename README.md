@@ -32,7 +32,7 @@ Today I Learned..
   [Week-12 (220610~220616)(Vue.js)](./KDT-FE2/weekly-worksheet/Week-12(220610~220616).md)  
   [Week-13 (220617~220623)(TS)](./KDT-FE2/weekly-worksheet/Week-13(220617~220623).md)  
   [Week-14 (220624~220630)(TS & Vue.js Composition API)](./KDT-FE2/weekly-worksheet/Week-14(220624~220630).md)  
-  [Week-15 (220701~220707)(Firebase)](./KDT-FE2/weekly-worksheet/Week-15(220701~220707).md) 
+  [Week-15 (220701~220707)(Firebase)](./KDT-FE2/weekly-worksheet/Week-15(220701~220707).md)  
   [Week-16 (220708~220714)(SEO)](./KDT-FE2/weekly-worksheet/Week-16(220708~220714).md)  
 
 
