@@ -16,6 +16,9 @@ Today I Learned..
     [JS100제 - 7번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-7%EB%B2%88)  
     [JS100제 - 8번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-8%EB%B2%88)  
     [JS100제 - 9번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-9%EB%B2%88)  
+    [JS100제 - 10번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-10%EB%B2%88)  
+    [JS100제 - 11번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-11%EB%B2%88)  
+    [JS100제 - 12번](https://velog.io/@heeyoung-c/JS100%EC%A0%9C-12%EB%B2%88)  
 
 ## <img src="https://storage.googleapis.com/fc-assets-prod/favicon/favicon.ico" alt="fastcampus" width=18px /> [KDT-FE2-Weekly-Worksheet](./KDT-FE2/weekly-worksheet/)
 > [Week-1 (220328~220331)(Git&GitHub)](./KDT-FE2/weekly-worksheet/Week-1(220328~220331)(git%26github).md)  
@@ -34,6 +37,7 @@ Today I Learned..
   [Week-14 (220624~220630)(TS & Vue.js Composition API)](./KDT-FE2/weekly-worksheet/Week-14(220624~220630).md)  
   [Week-15 (220701~220707)(Firebase)](./KDT-FE2/weekly-worksheet/Week-15(220701~220707).md)  
   [Week-16 (220708~220714)(SEO)](./KDT-FE2/weekly-worksheet/Week-16(220708~220714).md)  
+  [Week-17 (220715~220722)(Heroku)](./KDT-FE2/weekly-worksheet/Week-17(220715~220722).md)  
 
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=18px /> [Git&GitHub](./Git%26GitHub/)
