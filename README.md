@@ -37,7 +37,7 @@ Today I Learned..
   [Week-14 (220624~220630)(TS & Vue.js Composition API)](./KDT-FE2/weekly-worksheet/Week-14(220624~220630).md)  
   [Week-15 (220701~220707)(Firebase)](./KDT-FE2/weekly-worksheet/Week-15(220701~220707).md)  
   [Week-16 (220708~220714)(SEO)](./KDT-FE2/weekly-worksheet/Week-16(220708~220714).md)  
-  [Week-17 (220715~220722)(Heroku)](./KDT-FE2/weekly-worksheet/Week-17(220715~220722).md)  
+  [Week-17 (220715~220722)(node.js, Heroku)](./KDT-FE2/weekly-worksheet/Week-17(220715~220722).md)  
 
 
 ## <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="Github" width=18px /> [Git&GitHub](./Git%26GitHub/)
